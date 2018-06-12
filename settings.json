@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Oceanic Next",
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "300",
+    "jshint.enable": false,
+    "eslint.autoFixOnSave": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.zoomLevel": -1,
+    "rust.mode": "legacy",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+}
